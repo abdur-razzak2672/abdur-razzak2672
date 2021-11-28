@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Abdur Razzak .
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Django for Backend
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me
 
 <!---
