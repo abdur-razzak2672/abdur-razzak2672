@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.facebook.com/razzak2672"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8EBa4IBNMMXhIUaFs2_nO4MemugjsQNp8ZA&usqp=CAU" alt="ilhan" height="30" width="40" /></a>         
 <a href="https://twitter.com/razzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razzak" height="30" width="40" /></a>
-<a href="https://www.facebook.com/razzak2672"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdur-razzak-b404a71b3/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhna" height="30" width="40" /></a>
 <a href="https://www.facebook.com/razzak2672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razzak" height="30" width="40" /></a>
 <a href="https://www.instagram.com/razzak/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razzak" height="30" width="40" /></a>
 <a href="https://www.behance.net/razzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="razzak" height="30" width="40" /></a>
